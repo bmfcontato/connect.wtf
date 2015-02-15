@@ -1,0 +1,13 @@
+{
+    "name": "connect/connect.wtf",
+    "description": "Connect.wtf - Social network to share knowledge",
+    "license": "none",
+    "authors": [
+        {
+            "name": "Bruno Marques",
+            "email": "bmfcontato@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
