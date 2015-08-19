@@ -4,7 +4,7 @@ namespace App\Controller;
 
 class Controller
 {
-	public function index()
+    public function index()
     {
         echo 'Method index run';
     }
