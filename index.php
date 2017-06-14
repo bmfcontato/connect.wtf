@@ -1,3 +1,5 @@
 <?php
 
-echo "Corey Taylor fuck!";
+if ( 1 === 1 ) {
+	echo "Corey Taylor fuck!";
+}
