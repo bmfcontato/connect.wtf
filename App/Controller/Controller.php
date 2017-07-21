@@ -6,6 +6,6 @@ class Controller
 {
     public function index()
     {
-        echo 'Method test!';
+        echo 'TESTING A WEB SITE!';
     }
 }
