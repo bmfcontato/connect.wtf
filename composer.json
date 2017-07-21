@@ -1,0 +1,22 @@
+{
+    "name": "connect/connect.wtf",
+    "description": "Connect.wtf - Social network to share knowledge",
+    "license": "none",
+    "authors": [
+        {
+            "name": "Bruno Marques",
+            "email": "bmfcontato@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Noob\\": "vendor/Noob/",
+            "Smarty\\": "vendor/smarty/smarty/libs/",
+            "App\\": "App/"
+        }
+    },
+    "require": {
+        "smarty/smarty": "~3.1@dev"
+    }
+}
