@@ -6,6 +6,6 @@ class Controller
 {
     public function index()
     {
-        echo 'Method index run 2';
+        echo 'Method test!';
     }
 }
