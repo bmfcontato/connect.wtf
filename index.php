@@ -1,6 +1,5 @@
 <?php
 
-require_once 'public/index.php';
-
+echo "Oh yes";
 
 

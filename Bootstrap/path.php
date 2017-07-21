@@ -13,7 +13,7 @@ if(!defined('BOOTSTRAP')) {
 }
 
 if(!defined('PUBLIC')) {
-    define('PUBLIC', ROOT . DS . 'public_html');
+    define('PUBLIC', ROOT . DS . 'public');
 }
 
 if(!defined('VENDOR')) {
@@ -51,3 +51,4 @@ if(!defined('VIEW')) {
 if(!defined('TEMPLATE')) {
     define('TEMPLATE', VIEW . DS  . 'Template');
 }
+
