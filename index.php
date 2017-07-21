@@ -1,9 +1,6 @@
 <?php
 
-if ( 1 === 1 ) {
-	echo "TESTING!!!";	
-}
-
+require_once 'public/index.php';
 
 
 
